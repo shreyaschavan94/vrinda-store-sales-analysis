@@ -100,3 +100,7 @@ vrinda-store-sales-analysis/
 │   └── 07_Orders_Channels.png
 │
 └── README.md
+
+## 👤 Author
+**Shreyas Chavan**
+Aspiring Data Analyst | Excel | SQL | Python | Power BI
